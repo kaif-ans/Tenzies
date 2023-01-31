@@ -4,13 +4,13 @@
 
 body {
   margin: 0;
-  background-color: #0B2434;
+  background-color: #0b2434;
   padding: 20px;
-  font-family: 'Karla', sans-serif;
+  font-family: "Karla", sans-serif;
 }
 
 main {
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
   height: 400px;
   max-width: 800px;
   border-radius: 5px;
@@ -27,7 +27,7 @@ main {
 }
 
 .instructions {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   margin-top: 0;
   text-align: center;
@@ -60,10 +60,10 @@ main {
   width: 150px;
   border: none;
   border-radius: 6px;
-  background-color: #5035FF;
+  background-color: #5035ff;
   color: white;
   font-size: 1.2rem;
-  font-family: 'Karla', sans-serif;
+  font-family: "Karla", sans-serif;
   cursor: pointer;
 }
 
