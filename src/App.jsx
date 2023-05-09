@@ -5,6 +5,7 @@ import { nanoid } from "nanoid";
 import Confetti from "react-confetti";
 
 function App() {
+  
   const [dice, setDice] = React.useState(allNewDice());
   const [tenzies, setTenzies] = React.useState(false);
 
